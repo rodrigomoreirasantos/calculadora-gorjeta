@@ -1,0 +1,16 @@
+.gorjeta{
+  display: flex;
+  flex-direction: column;
+}
+
+hr{
+  width: 100%;
+}
+
+h1,h3,p{
+  margin-left: 16px;
+}
+
+p{
+  margin-bottom: 0px;
+}
